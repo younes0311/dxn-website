@@ -36,6 +36,12 @@ border-radius: 50px;}
 
 }
 .katalog img:active{height: 160px;}
+@keyframes slideInleft{
+    from{transform: translateY(-300px);}
+    to{transform: translateY(0);}
+}
+
+.katalog a img{animation:  slideInleft 2s ease 1 both;}
 
 @media 
 (max-width:1025px)
