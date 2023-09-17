@@ -58,7 +58,7 @@ border-radius: 50px;}
 
 .al-header a:hover{color: red;transition: 0.5s;}
 
-@media(max-width:1025px){.katalog img{height: 152px;position: relative;left: 1.3px;
+@media(max-width:1025px){.katalog img{height: 150px;position: relative;left: 1.3px;
    }
 header .al-header a{position: relative;;font-size: 25px;
     margin: 0 10px;}}
