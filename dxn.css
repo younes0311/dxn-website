@@ -1,6 +1,6 @@
 
 
-body{width: 100%;overflow: hidden;height:110%; overflow: hidden}
+body{width: 100%;overflow: hidden;height: 110%;}
 
 
 header .al-header{position: relative;
@@ -12,12 +12,17 @@ header .al-header{position: relative;
         text-decoration: none;
         color: black;
     }
+    .al-header a:active{color:red}
     .al-header{position: relative;}
     header{position: relative;;
         background: #b1b1b1;top: 20px;
     }
     body{background-color:#c4c4c4}
-.hi{display: flex;justify-content: center;position: relative;top: 30px;background-color: #d1d1d1;}
+.hi{display: flex;
+    justify-content: center;
+    position: relative;
+    top: 30px;
+    background-color: #d2d2d2;}
 .foto img{height: 200px
     ;position: relative
     ;top: 100px;
@@ -26,15 +31,18 @@ border-radius: 50px;}
 
 .katalog{
     display: flex
-    ;justify-content: space-evenly;;;
+    ;justify-content: space-evenly;
 }
-.katalog img{height: 150px
+.katalog img{height: 350px
     ;position: relative
     ;top:40px;
     left:-8px
-    ;border-radius: 20px;
+    ;border-radius: 20px
+    ;z-index: -999;
 
 }
+
+
 .katalog img:active{height: 160px;}
 
 
@@ -54,5 +62,6 @@ border-radius: 50px;}
     ;font-weight: 550;font-size: 25px;
 }
 header {width: 115%;
-    left: -30px;} .katalog img {height: 150px;}}}
+    left: -30px;}
+    .katalog img {height: 150px;}body {height: 130%;overflow: hidden;width: 100% ;overflow: hidden;}}
 
