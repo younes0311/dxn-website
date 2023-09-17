@@ -39,12 +39,12 @@ border-radius: 50px;}
 
 
 @keyframes slideInleft{
-    from{transform: translateY(-150px);}
+    from{transform: translateY(-50px);}
     to{transform: translateY(0);}
 }
 
 .katalog a img{
-    animation:  slideInleft 0.7s ease 1 both;}
+    animation:  slideInleft 2s ease 1 both;}
 
 @media 
 (max-width:1025px)
@@ -54,5 +54,5 @@ border-radius: 50px;}
     ;font-weight: 550;font-size: 25px;
 }
 header {width: 115%;
-    left: -30px;}}
+    left: -30px;} .katalog img {height: 150px;}}}
 
