@@ -1,0 +1,80 @@
+
+
+header .al-header{position: relative;
+    display: flex
+    ;justify-content: center;margin: 0 ;}
+
+    header .al-header a{position: relative;;font-size: 25px;
+        margin: 0 50px;
+        text-decoration: none;
+        color: black;transition: 1s;
+    }
+   
+    .al-header{position: relative;}
+    header{position: relative;;
+        background: #b1b1b1;top: 20px;
+    }
+    body{background-color:#c4c4c4}
+.hi{display: flex;
+    justify-content: center;
+    position: relative;
+    top: 30px;
+    background-color: #d2d2d2;font-size: 20px;}
+.foto img{height: 200px
+    ;position: relative
+    ;top: 100px;
+    left: 80px;
+border-radius: 50px;}
+
+.katalog{
+    display: flex
+    ;justify-content: space-evenly;
+}
+.katalog img{height: 350px
+    ;position: relative
+    ;top:40px;
+    left:-8px
+    ;border-radius: 20px
+    ;z-index: -999;
+    border-style: groove;
+    color: black;
+    transition: 5s;
+
+}
+
+.katalog img:active{
+    height: 160px;}
+
+
+@keyframes slideInleft{
+    from{transform: translateY(-50px);}
+    to{transform: translateY(0);}
+}
+
+.katalog a img{
+    animation:  slideInleft 2s ease 1 both;}
+
+.al-header a:hover{color: red;transition: 0.5s;}
+
+@media(max-width:1025px){
+header .al-header a{position: relative;
+    ;font-size: 25px;
+    margin: 0 10px;}}
+  .katalog img{height: 155px;
+    position: relative;
+    left: 1.3px;
+   }
+    @media(min-width:1620px)
+    {.katalog img{height: 300px;
+        position: relative;
+        left: 1.3px;}
+ header .al-header a{
+    position: relative;
+    padding: 0 100px
+    ;font-size: 25px;
+     margin: 0 10px;}}
+     @media(min-width:1030px) 
+     {.katalog img{height: 300px
+
+     }}
+
