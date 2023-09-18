@@ -74,7 +74,6 @@ header .al-header a{position: relative;
     ;font-size: 25px;
      margin: 0 10px;}}
      @media(min-width:1030px) 
-     {.katalog img{height: 300px
-
-     }}
+     {.katalog img{height: 300px}
+     .fehler img{height: 150px}}
 
