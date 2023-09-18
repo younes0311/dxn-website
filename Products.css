@@ -12,6 +12,7 @@ header .al-header{position: relative;
     header{position: relative;;
         background: #b1b1b1;top: 20px;
     }
+   .fehler img{height:200px}
     body{background-color:#c4c4c4}
     .pro{color:red}
 .hi{display: flex;
