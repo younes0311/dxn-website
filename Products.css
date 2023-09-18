@@ -32,7 +32,7 @@ header .al-header{position: relative;
                  margin: 0 10px;}}
 
 
- .fehler{display: flex;flex-direction: row;justify-content: space-between;}
+ .fehler{display: flex;}
                  .fehler img{height: 300px;position: relative;top: 100px;border-radius: 30px}
 
 
