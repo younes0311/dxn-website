@@ -80,7 +80,7 @@ header .al-header a{position: relative;
     ;font-size: 25px;
     margin: 0 11px;}
     .katalog img{width: 400px
-        ;height: 320px;}.bbttnn button:active{transform: scaleX(1.5);}}
+        ;height: 320px;}.bbttnn button:active{transform: scaleX(1.5);background-color:wheat;color#594939}}
  
     @media(min-width:1620px){
  header .al-header a{
