@@ -24,7 +24,8 @@ header .al-header{position: relative;
 
     @media(max-width:1025px){
         header .al-header a{position: relative;;font-size: 25px;
-            margin: 0 10px;}}
+            margin: 0 10px;}.fehler img{height:150px}
+   .fehler{disply:flex;flex-direction:row}}
             @media(min-width:1620px){ header .al-header a{
                 position: relative;
                 padding: 0 130px
@@ -32,8 +33,9 @@ header .al-header{position: relative;
                  margin: 0 10px;}}
 
 
- .fehler{display: flex;}
-                 .fehler img{height: 300px;position: relative;top: 100px;border-radius: 30px}
+ 
+    
+               
 
 
 
