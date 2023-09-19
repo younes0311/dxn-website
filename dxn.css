@@ -47,7 +47,7 @@ border-radius: 50px;}
 .al-header a:hover{color: red;
     transition: 0.5s;}
 .bbttnn{position: relative;display: flex;}
-.bbttnn button{width: 150px
+.bbttnn button{width: 200px
     ;height: 50px;
     ;position: relative;
     border-radius: 15px;
