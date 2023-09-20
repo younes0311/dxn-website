@@ -79,8 +79,7 @@ to{transform: translateY(0);}
         ;width: 400px;animation:home-foto 1s 1 both ease ;}}
 
 @media(max-width:600px) { header .al-header a{position: relative;
-    ;font-size: 25px;
-    margin: 0 30px;animation:home-foto 1s 1 both ease ;}
+    ;font-size: 25px;}
     .katalog img{height: 380px
         ;width: 480px;animation:home-foto 1s 1 both ease ;}}
 
