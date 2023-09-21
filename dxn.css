@@ -1,0 +1,188 @@
+
+
+header .al-header{position: relative;
+    display: flex
+    ;justify-content: center;
+    margin: 0 ;}
+
+    header .al-header a{position: relative;
+        ;font-size: 25px;
+        margin: 0 50px;
+        text-decoration: none;
+        color: black;
+        transition: 1s;
+    }
+   
+    .al-header{position: relative;}
+    header{position: relative;;
+        background: #fcecd7a8
+        ;top: 20px;
+    }
+    body{background-color:#f2ebdd}
+.hi{display: flex;
+    justify-content: center;
+    position: relative;
+    top: 30px;
+    background-color: #faebd7;
+    font-size: 20px;}
+
+
+
+    .bbww{display: flex;justify-content: center;position: relative;}
+.bbww .drink{height: 430px;border-radius: 20px;position: relative;top: 50px;}
+
+
+
+header .al-header a{
+    margin: 0 50px;}
+
+    .batn{display: flex;justify-content: center
+        ;position: relative;}
+    .batn .btn1{position: relative;
+        top: 310px;
+        width: 200px
+        ;height: 40px
+        ;border-radius: 15px;
+        background-color: #b49e8a;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 600;
+    
+    font-family: 'Times New Roman', Times, serif;
+    transition: 1s;}
+
+.batn .btn1:active{background-color: aqua;transform: scale(2.2);}
+
+.wörter1{display: flex;flex-direction: column;align-items: center;position: relative;}
+
+.wörter1 .wort1{color: 2c2c2c
+    ;letter-spacing: 10px
+    ;position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    ;
+}
+.wörter1 .wort2{color: #808080;
+    letter-spacing: 10px;
+    position: relative;
+    top: -83px
+    ;left: 3px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.wörter2{display: flex;flex-direction: column;align-items: center;position: relative;}
+
+.wörter2 .wort3{color: 2c2c2c
+    ;letter-spacing: 20px
+    ;position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: -136px;
+    left: 2px
+}
+.wörter2 .wort4{color: #808080;
+    letter-spacing: 20px;
+    position: relative;
+    top: -220px
+    ;left: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+
+
+    .wörter3{display: flex;flex-direction: column;align-items: center;position: relative;;}
+
+    .wörter3 .wort5{color: #2c2c2c
+        ;letter-spacing: 20px
+        ;position: relative;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        top: -240px;
+        left: 7px;
+        font-size: 25px;
+        font-size: 20px;
+        
+    }
+    .wörter3 .wort6{color: #808080;
+        font-size:20px ;
+        letter-spacing: 20px;
+        position: relative;
+        top: -290px
+        ;left: 5px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+
+
+
+.wörter4 {display: flex;flex-direction:row;justify-content: center;position: relative;}
+.wörter4 .wort7{color: #808080;
+    font-size:25px ;
+    letter-spacing: 20px;
+    position: relative;
+    top: -300px
+    ;left: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+    .wörter4 .wort8{color: #808080;
+        font-size:25px ;
+        letter-spacing: 20px;
+        position: relative;
+        top: -300px
+        ;left: 5px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+
+        .wörter4 .wort9{color: #808080;
+            font-size:25px ;
+            letter-spacing: 20px;
+            position: relative;
+            top: -300px
+            ;left: 5px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1730px){.bbww .drink {height:620px}}
+@media (max-width:1600px){.bbww .drink {height: 610px;}}
+@media (max-width:1400px){.bbww .drink {height:610px ;}}
+@media (max-width:1350px){.bbww .drink {height:600px}}
+@media (max-width:1300px){.bbww .drink {height:590px ;}}
+@media (max-width:1250px){.bbww .drink {height: 570px;}}
+@media (max-width:1150px){.bbww .drink {height:560px}}
+@media (max-width:1020px){.bbww .drink {height:550px ;}}
+@media (max-width:900px){.bbww .drink {height: 540px;}}
+@media (max-width:895px){.bbww .drink {height: 530px;}}
+@media (max-width:765px){.bbww .drink {height: 490px;}}
+@media (max-width:700px){.bbww .drink {height: 430px;}}
+@media (max-width:600px){.bbww .drink{height: 370px;}header .al-header a{
+    margin: 0 30px;}}
+@media (max-width:520px){.bbww .drink {height: 350px;}header .al-header a{
+    margin: 0 25px;}}
+@media (max-width:450px){.bbww .drink {height: 330px;}header .al-header a{
+    margin: 0 25px;}}
+
+@media (max-width:425px){.bbww .drink {height: 310px;}header .al-header a{
+    margin: 0 20px;}}
+
+@media (max-width:400px){.bbww .drink {height: 260px;}header .al-header a{
+    margin: 0 15px;}}
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
