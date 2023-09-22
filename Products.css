@@ -217,7 +217,7 @@ to{transform: translateY(0);}
         width: 320px;
         ;margin-top: 10px;
         overflow: hidden
-        ;top: -20px;margin-top: 20px;}
+        ;top: -20px;margin-top: 20px;}.wörter2 h1{font-size:26px}
 
         .cata-img{flex-direction: column;align-items: center;}}
 
@@ -227,7 +227,7 @@ to{transform: translateY(0);}
         ;margin-top: 10px;
         overflow: hidden
         ;top: -20px;margin-top: 20px;}
-
+.wörter2 h1{font-size: 27px;}
         .cata-img{flex-direction: column;align-items: center;}}
 
 @media (max-width:400px)
