@@ -58,7 +58,7 @@ font-style: oblique;
 top: -108px;opacity: 50%;
 }
 
-.wörter2 h1{animation: wörterzwei 1s ease-in;}
+.wörter2 h1{animation: wörterzwei 1s ease-in;font-size:25px}
 
 @keyframes wörterzwei {
     from{transform: translateY(-60px);}
