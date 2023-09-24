@@ -551,7 +551,7 @@ to{transform: translateY(0);}
         .ch11{bottom: 270px;left: 8px;}
         .ch12{left: 10px;}
         .means-coin div{right: 10px;}
-        
+        .body{height: 400px;overflow: hidden;}
        }
 
 
@@ -582,7 +582,7 @@ to{transform: translateY(0);}
   .ch10{bottom: 530px;left: 8px;}
   .ch11{bottom: 270px;left: 8px;}
   .ch12{left: 10px;}
-
+.body{height: 400px;overflow: hidden;}
     }
      
     
