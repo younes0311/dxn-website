@@ -501,6 +501,7 @@ to{transform: translateY(0);}
         ;margin-top: 10px;
         overflow: hidden
         ;top: -20px;margin-top: 20px;}
+                         .means-coin{background-color: red;height: 10px;}
 
         .cata-img{flex-direction: column;align-items: center;}
         .cat-lines div img{position: relative;left: 13%;top: 30px;height: 210px;width: 310px;}
@@ -522,6 +523,7 @@ to{transform: translateY(0);}
         .ch11{bottom: 280px;left: 8px;}
         .ch12{left: 10px;}
         .means-coin div{right: 20px;}
+                         .means-coin{background-color: red;height: 10px;}
      }
 
 
