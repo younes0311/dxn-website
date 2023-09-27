@@ -108,7 +108,7 @@ animation:  slidevoll 20s infinite;
 
     0%{transform: translateX(0);}
 35%{transform: translateX(-370px);}
-55%{transform: translateX(-760px);}
+55%{transform: translateX(-740px);}
 75%{transform: translateX(-1110px);}
 95%{transform: translateX(-1480px);}
 }
@@ -116,7 +116,7 @@ animation:  slidevoll 20s infinite;
 
     0%{transform: translateX(0);}
 35%{transform: translateX(-370px);}
-55%{transform: translateX(-760px);}
+55%{transform: translateX(-740px);}
 75%{transform: translateX(-1110px);}
 95%{transform: translateX(-1480px);}
 }
